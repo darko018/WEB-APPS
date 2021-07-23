@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://joyenergizer.com/wp-content/uploads/2015/02/chuck-norris-facts-.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#button {
+    margin-left: 300px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+p {
+    
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    margin-right: 700px;
+    text-align: center;
+}

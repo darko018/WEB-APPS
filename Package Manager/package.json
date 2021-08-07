@@ -1,0 +1,17 @@
+{
+  "name": "my-first-npm-project",
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darko",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "funny-words": "^0.1.2",
+    "one-liner-joke": "^1.2.2",
+    "random-words": "^1.1.1"
+  }
+}

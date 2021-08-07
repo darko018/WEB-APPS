@@ -30,7 +30,7 @@ figlet('Hello World!!', function(err, data) {
 
   console.log(
     figlet.textSync("Hello World!", {
-      font: "3D-ASCII",
+      font: "sub-zero",
       horizontalLayout: "default",
       verticalLayout: "default",
       width:100,

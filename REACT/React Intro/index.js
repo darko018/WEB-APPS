@@ -1,6 +1,6 @@
 const rootElement = document.getElementById("root");
 
-let items = [
+var items = [
   "1 cup Fresh Basil",
   "1 cup Pine Nuts",
   "2 cups Butter Lettuce",

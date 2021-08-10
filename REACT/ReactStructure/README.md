@@ -1,0 +1,53 @@
+<APP>
+    <HEADER>
+        <CONTAINER>
+            <DIV1>
+                <LINK href>
+                    <SPAN></SPAN>
+                </LINK>
+            </DIV1>
+            <DIV2>
+                <NAVLINK>
+                    <LISTITEM></LISTITEM>
+                    <LISTITEM></LISTITEM>
+                    <LISTITEM></LISTITEM>
+                </NAVLINK>
+            </DIV2>
+            <DIV3>
+                <SOCIALLINKS>
+                </SOCIALLINKS>
+            </DIV3>
+        </CONTAINER>
+    </HEADER>
+    <MAINSECTION>
+        <SECTIONTITLE>
+            <SECTIONTEXT>
+                <BUTTON>
+                </BUTTON>
+            </SECTIONTEXT>
+        </SECTIONTITLE>
+    </MAINSECTION>
+    <PROJECTSECTION>
+        <SECTIONTITLE>
+            <GRIDCONTAINER>
+                <BLOGCARD>
+                    <IMG></IMG>
+                    <BLOGTITLE></BLOGTITLE>
+                    <CARDINFO>
+                        <TAGLIST>
+                            <LISTITEM></LISTITEM>
+                            <LISTITEM></LISTITEM>
+                            <LISTITEM></LISTITEM>
+                        </TAGLIST>
+                    </CARDINFO>
+                    <UTILITYLIST>
+                        <EXTERNALLINKS></EXTERNALLINKS>
+                        <EXTERNALLINKS></EXTERNALLINKS>
+                    </UTILITYLIST>
+                </BLOGCARD>
+            </GRIDCONTAINER>
+        </SECTIONTITLE>
+    </PROJECTSECTION>
+
+
+</APP>
